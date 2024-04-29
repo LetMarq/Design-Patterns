@@ -58,14 +58,10 @@ Replace `filename.py` with the name of the file you want to run. For example, to
 python factory_method.py
 ```
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/yourusername/design-patterns-python/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
-
 ## Authors
 
 - **Letícia Marques** - *Initial work* - [LetMarqs](https://https://github.com/LetMarq)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
