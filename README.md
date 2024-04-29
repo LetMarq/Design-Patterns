@@ -64,7 +64,7 @@ Please read [CONTRIBUTING.md](https://github.com/yourusername/design-patterns-py
 
 ## Authors
 
-- **Letícia Marques** - *Initial work* - [LetMarqs](https://https://github.com/LetMarq)
+- **Letícia Marques** - *Initial work* - [LetMarqs](https://github.com/LetMarq)
 
 ## License
 
