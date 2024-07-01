@@ -60,7 +60,7 @@ python factory_method.py
 
 ## Authors
 
-- **Letícia Marques** - *Initial work* - [LetMarqs](https://https://github.com/LetMarq)
+- **Letícia Marques** - *Initial work* - [LetMarqs](https://github.com/LetMarq)
 
 ## License
 
